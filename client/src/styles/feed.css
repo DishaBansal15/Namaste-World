@@ -1,0 +1,19 @@
+.feed {
+    padding: 20px;
+  }
+  
+  .post {
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .post h3 {
+    margin: 0;
+  }
+  
+  .post p {
+    margin-top: 5px;
+  }
+  

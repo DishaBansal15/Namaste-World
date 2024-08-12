@@ -1,0 +1,23 @@
+.profile {
+    padding: 20px;
+  }
+  
+  .profile h2 {
+    margin: 0;
+  }
+  
+  .profile p {
+    margin: 5px 0;
+  }
+  
+  .profile-posts {
+    margin-top: 20px;
+  }
+  
+  .post {
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 10px;
+  }
+  
